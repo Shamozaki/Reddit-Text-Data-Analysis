@@ -1,2 +1,2 @@
-# Reddit-Text-Data-Analysis
-We will perform a number of operations to gain insights from the text data. Useful to gain text data analytical skills.
+Programming Language: Python
+Key skills to learn: Text data pre-processing using Pandas, Regex and NLP.
